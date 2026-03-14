@@ -1,0 +1,10 @@
+numpy
+scipy
+torch
+torchvision
+seaborn
+matplotlib
+pandas
+ipython
+notebook
+plotly
